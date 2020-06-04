@@ -1,0 +1,115 @@
+/*Start Page Services*/
+/*Start Header*/
+.ser-header    { background-image: url('../images/bg_1.jpg'); color: #fff; }
+.ser-header h3 { margin-top: 150px; font-size: 40px; }
+.ser-header h2 {
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 60px;
+	letter-spacing: 5;
+	color: #FAC564
+}
+.ser-header p  { font-size: 30px; margin-bottom: 60px; }
+.ser-header img{ margin-top: 300px; }
+/*End Header*/
+/*Start Section Meal*/
+.info-meal img    { margin-top: 40px; }
+.info-meal h3     { color: #fff; margin-top: 15px; }
+.info-meal .row p { padding-bottom: 10px; }
+.info-meal span {
+	 font-size: 22px;
+	 display: block;
+	 margin-bottom: 10px;
+}
+.info-meal .btn {
+	border-radius: 0;
+	border-color: #fff;
+	color: #fff;
+	margin-bottom: 25px;
+}
+/*End Page Services*/
+/*Start Page About*/
+/*Start Section Meet Our Team*/
+.our-team     { color: #fff; background-image: url('../images/bg_4.jpg'); }
+.our-team img { margin-top: 25px; }
+.our-team a   { text-decoration: none; }
+.our-team h3 {
+	color: #FAC564;
+    font-size: 25px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	cursor: pointer;
+}
+.our-team span { color: #fff; font-size: 15px; }
+.our-team p {
+	color: #c0c0c0;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+ /*End Section Meet Our Team*/
+/*End Page About*/
+/*Start Page Contact Us*/
+/*Start Section Contact Us*/
+.subscribe .contact-info { border-bottom: 0.5px solid #565656; padding-bottom: 40px; }
+.res-info {
+	background-image: url('../images/food.png');
+	padding-top: 40px;
+	padding-bottom: 30px;
+	font-size: 18px;
+}
+.res-info p { line-height: 2; }
+/*End Section Contact Us*/
+/*End Page Contact Us*/
+/*Start Page Menu*/
+/*Start Section Our Price*/
+ .our-pricing { margin-top: 0; background-image: url('../images/bg_4.jpg'); }
+.our-pricing .price-info h2 {
+	color: #fff;
+	letter-spacing: 4;
+	text-transform: uppercase;
+	padding-top: 40px;
+	margin-bottom: 25px;
+	margin-top: -50px;
+}
+.our-pricing .price-info span { color: #FAC564; }
+.our-pricing .price-info p {
+	 color: #c0c0c0;
+	 padding-bottom: 40px;
+	 line-height: 30px;
+	 margin-bottom: 0px;
+}
+.our-pricing .price { margin-bottom: 30px; }
+.our-pricing .price h3 {
+	font-size: 23px;
+	display: inline-block;
+	color: #c0c0c0;
+	margin-left: 10px;
+	transition: all 0.5s ease-in-out;
+}
+.our-pricing .price h3:hover { color: #FAC564; }
+.our-pricing .price span {
+	color: #FAC564;
+	font-size: 20px;
+	margin-top: 5px;
+}
+/*End Section Our Price*/
+/*End Page Menu*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
